@@ -1,0 +1,15 @@
+body{
+    background-color: #eeeeee;
+}
+.heading
+{
+    margin: 0;
+    padding: 1rem 1rem 1rem 2rem;
+    background-color: #007BFF;
+    color: #ffffff;
+}
+.heading-mark{
+    color: #007BFF;
+    font-weight: bold;
+    padding: 3px;
+;}
